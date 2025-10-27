@@ -38,7 +38,7 @@ ConVReach/
 │
 ├── convreach/                      # Core implementation (static + dynamic)
 │   ├── icfg.py                     # ICFG data structure and loader (JSON)
-│   ├── constraints.py              #
+│   ├── constraints.py              
 │   ├── decomposition.py            
 │   ├── satisfiability.py           
 │   ├── aggregation.py              
